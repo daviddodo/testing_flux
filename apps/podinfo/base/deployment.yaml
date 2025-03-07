@@ -19,4 +19,4 @@ spec:
         - containerPort: 9898
         env:
         - name: PODINFO_UI_COLOR
-          value: "#ffffff"
+          value: "#007300"
