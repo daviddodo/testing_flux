@@ -3,4 +3,4 @@ kind: Kustomization
 namespace: team-base
 resources:
   - namespace.yaml
-  - ../../base/podinfo
+  - ../base/podinfo
