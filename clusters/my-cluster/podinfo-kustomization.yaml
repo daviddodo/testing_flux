@@ -18,7 +18,7 @@ spec:
       name: podinfo
       kind: HorizontalPodAutoscaler
   interval: 30m0s
-  path: ./kustomize
+  path: ./apps/podinfo/overlays/dev
   prune: true
   retryInterval: 2m0s
   sourceRef:
