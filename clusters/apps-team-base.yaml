@@ -10,4 +10,4 @@ spec:
     name: flux-system
   path: ./apps/team-base
   prune: true
-  wait: true
+  wait: true #test
